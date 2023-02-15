@@ -81,6 +81,10 @@ if __name__ == "__main__":
                 elif 'Time' in query:
                     speak("Time ")
                     time()
+                elif "exit"in p:
+                    pyttsx3.speak(" ")
+                    break
+            pyttsx3.speak("Thank you for using me.")
     
 
         elif 'access' in question:
