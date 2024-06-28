@@ -12,7 +12,7 @@ for example:
      -step 3: wait till it installed.<br>
      -step 4: cotinue with all library in program. 
 
-<h1 align="center">KNOWLEDGE</h1>
+<h1 align="center">IDEA</h1>
 
 
 <b>-1 face recog is <b><i>UPCOMING</b></i> feature i will add in my code as well.❤️
