@@ -1,9 +1,8 @@
 # Artificial-Intelligence
 
-
-pip install ...............
-
-
+<h1 align="center">HOW TO USE</h1>
+<h4 aling="center">pip install ...............</h4>
+<hr>
 install all library by filling all given library's name in the blank space.
 for example:
 <br>
