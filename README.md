@@ -1,16 +1,18 @@
 # Artificial-Intelligence
 
 <h1 align="center">HOW TO USE</h1>
-<h4 aling="center">pip install ...............</h4>
-<hr>
-install all library by filling all given library's name in the blank space.
+<h3 align="center"><b>pip install ...............</b></h3>
+
+<br>
+Install all library by filling all given library's name in the blank space.
 for example:
 <br>
-     -setp 1: open your terminal.<br>
-     -step 2: pip install pyttsx3.<br>
-     -step 3: wait till it installed.<br>
-     -step 4: cotinue with all library in program. 
-
+<p>
+     -setp 1:  &emsp; Open your terminal.<br>
+     -step 2: &emsp;  pip install pyttsx3.<br>
+     -step 3: &emsp;  Wait till it installed.<br>
+     -step 4: &emsp;  Cotinue with all library in program. 
+</p>
 <h1 align="center">IDEA</h1>
 
 
